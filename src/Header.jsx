@@ -1,4 +1,4 @@
-import chef_image from "chef-claude-react/public/images/chef-claude-icon.png"
+import chef_image from "/public/images/chef-claude-icon.png"
 
 
 export default function Header(){
